@@ -20,7 +20,7 @@ export default {
   margin-top: 200px;
 
   h1 {
-    color: #42b983;
+    color: #42b982;
   }
 }
 </style>
